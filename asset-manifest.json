@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netplix/static/css/main.f2d37f6c.css",
+    "main.js": "/Netplix/static/js/main.7d61960d.js",
+    "static/media/netplix-logo.png": "/Netplix/static/media/netplix-logo.3b4c75d47c6a84bbb74e.png",
+    "index.html": "/Netplix/index.html",
+    "main.f2d37f6c.css.map": "/Netplix/static/css/main.f2d37f6c.css.map",
+    "main.7d61960d.js.map": "/Netplix/static/js/main.7d61960d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d37f6c.css",
+    "static/js/main.7d61960d.js"
+  ]
+}
